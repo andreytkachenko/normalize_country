@@ -1,0 +1,3068 @@
+[TG]
+alpha2 = "TG"
+alpha3 = "TGO"
+fifa = "TOG"
+ioc = "TOG"
+iso_name = "Togo"
+numeric = 768
+official = "Togolese Republic"
+short = "Togo"
+emoji = "🇹🇬"
+shortcode = ":flag-tg:"
+
+[TV]
+alpha2 = "TV"
+alpha3 = "TUV"
+fifa = "TUV"
+ioc = "TUV"
+iso_name = "Tuvalu"
+numeric = 798
+official = "Tuvalu"
+short = "Tuvalu"
+emoji = "🇹🇻"
+shortcode = ":flag-tv:"
+
+[CF]
+alpha2 = "CF"
+alpha3 = "CAF"
+fifa = "CTA"
+ioc = "CAF"
+iso_name = "Central African Republic"
+numeric = 140
+official = "Central African Republic"
+short = "Central African Republic"
+emoji = "🇨🇫"
+shortcode = ":flag-cf:"
+
+[MG]
+alpha2 = "MG"
+alpha3 = "MDG"
+fifa = "MAD"
+ioc = "MAD"
+iso_name = "Madagascar"
+numeric = 450
+official = "Republic of Madagascar"
+short = "Madagascar"
+emoji = "🇲🇬"
+shortcode = ":flag-mg:"
+
+[OM]
+alpha2 = "OM"
+alpha3 = "OMN"
+fifa = "OMA"
+ioc = "OMA"
+iso_name = "Oman"
+numeric = 512
+official = "Sultanate of Oman"
+short = "Oman"
+emoji = "🇴🇲"
+shortcode = ":flag-om:"
+
+[CV]
+alpha2 = "CV"
+alpha3 = "CPV"
+fifa = "CPV"
+ioc = "CPV"
+iso_name = "Cape Verde"
+numeric = 132
+official = "Republic of Cape Verde"
+short = "Cape Verde"
+emoji = "🇨🇻"
+shortcode = ":flag-cv:"
+
+[WF]
+alpha2 = "WF"
+alpha3 = "WLF"
+fifa = "~"
+ioc = "~"
+iso_name = "Wallis and Futuna"
+numeric = 876
+official = "Territory of the Wallis and Futuna Islands"
+short = "Wallis and Futuna"
+emoji = "🇼🇫"
+shortcode = ":flag-wf:"
+
+[CI]
+aliases = ["Côte D'Ivoire", "Côte D’Ivoire", "Cote D'Ivoire", "Cote D’Ivoire"]
+alpha2 = "CI"
+alpha3 = "CIV"
+fifa = "CIV"
+ioc = "CIV"
+iso_name = "Côte D'Ivoire"
+numeric = 384
+official = "Republic of Côte D'Ivoire"
+short = "Ivory Coast"
+emoji = "🇨🇮"
+shortcode = ":flag-ci:"
+
+[ML]
+alpha2 = "ML"
+alpha3 = "MLI"
+fifa = "MLI"
+ioc = "MLI"
+iso_name = "Mali"
+numeric = 466
+official = "Republic of Mali"
+short = "Mali"
+emoji = "🇲🇱"
+shortcode = ":flag-ml:"
+
+[DO]
+alpha2 = "DO"
+alpha3 = "DOM"
+fifa = "DOM"
+ioc = "DOM"
+iso_name = "Dominican Republic"
+numeric = 214
+official = "Dominican Republic"
+short = "Dominican Republic"
+emoji = "🇩🇴"
+shortcode = ":flag-do:"
+
+[IT]
+alpha2 = "IT"
+alpha3 = "ITA"
+fifa = "ITA"
+ioc = "ITA"
+iso_name = "Italy"
+numeric = 380
+official = "Italian Republic"
+short = "Italy"
+emoji = "🇮🇹"
+shortcode = ":flag-it:"
+
+[SJ]
+alpha2 = "SJ"
+alpha3 = "SJM"
+fifa = "~"
+ioc = "~"
+iso_name = "Svalbard And Jan Mayen"
+numeric = 744
+official = "Svalbard And Jan Mayen"
+short = "Svalbard And Jan Mayen"
+emoji = "🇸🇯"
+shortcode = ":flag-sj:"
+
+[KI]
+alpha2 = "KI"
+alpha3 = "KIR"
+fifa = "KIR"
+ioc = "KIR"
+iso_name = "Kiribati"
+numeric = 296
+official = "Republic of Kiribati"
+short = "Kiribati"
+emoji = "🇰🇮"
+shortcode = ":flag-ki:"
+
+[UG]
+alpha2 = "UG"
+alpha3 = "UGA"
+fifa = "UGA"
+ioc = "UGA"
+iso_name = "Uganda"
+numeric = 800
+official = "Republic of Uganda"
+short = "Uganda"
+emoji = "🇺🇬"
+shortcode = ":flag-ug:"
+
+[KR]
+aliases = ["S Korea", "S. Korea", "Korea, South"]
+alpha2 = "KR"
+alpha3 = "KOR"
+fifa = "KOR"
+ioc = "KOR"
+iso_name = "Korea, Republic of"
+numeric = 410
+official = "Republic of Korea"
+short = "South Korea"
+emoji = "🇰🇷"
+shortcode = ":flag-kr:"
+
+[BV]
+alpha2 = "BV"
+alpha3 = "BVT"
+fifa = "~"
+ioc = "~"
+iso_name = "Bouvet Island"
+numeric = 74
+official = "Bouvet Island"
+short = "Bouvet Island"
+emoji = "🇧🇻"
+shortcode = ":flag-bv:"
+
+[PT]
+alpha2 = "PT"
+alpha3 = "PRT"
+fifa = "POR"
+ioc = "POR"
+iso_name = "Portugal"
+numeric = 620
+official = "Portuguese Republic"
+short = "Portugal"
+emoji = "🇵🇹"
+shortcode = ":flag-pt:"
+
+[FR]
+alpha2 = "FR"
+alpha3 = "FRA"
+fifa = "FRA"
+ioc = "FRA"
+iso_name = "France"
+numeric = 250
+official = "French Republic"
+short = "France"
+emoji = "🇫🇷"
+shortcode = ":flag-fr:"
+
+[EE]
+alpha2 = "EE"
+alpha3 = "EST"
+fifa = "EST"
+ioc = "EST"
+iso_name = "Estonia"
+numeric = 233
+official = "Republic of Estonia"
+short = "Estonia"
+emoji = "🇪🇪"
+shortcode = ":flag-ee:"
+
+[KH]
+alpha2 = "KH"
+alpha3 = "KHM"
+fifa = "CAM"
+ioc = "CAM"
+iso_name = "Cambodia"
+numeric = 116
+official = "Kingdom of Cambodia"
+short = "Cambodia"
+emoji = "🇰🇭"
+shortcode = ":flag-kh:"
+
+[VU]
+alpha2 = "VU"
+alpha3 = "VUT"
+fifa = "VAN"
+ioc = "VAN"
+iso_name = "Vanuatu"
+numeric = 548
+official = "Republic of Vanuatu"
+short = "Vanuatu"
+emoji = "🇻🇺"
+shortcode = ":flag-vu:"
+
+[MO]
+aliases = ["Macau", "Macao Special Administrative Region"]
+alpha2 = "MO"
+alpha3 = "MAC"
+fifa = "~"
+ioc = "~"
+iso_name = "Macao"
+numeric = 446
+official = "Macao Special Administrative Region of the People's Republic of China"
+short = "Macao"
+emoji = "🇲🇴"
+shortcode = ":flag-mo:"
+
+[IQ]
+alpha2 = "IQ"
+alpha3 = "IRQ"
+fifa = "IRQ"
+ioc = "IRQ"
+iso_name = "Iraq"
+numeric = 368
+official = "Republic of Iraq"
+short = "Iraq"
+emoji = "🇮🇶"
+shortcode = ":flag-iq:"
+
+[MP]
+aliases = ["CNMI"]
+alpha2 = "MP"
+alpha3 = "MNP"
+fifa = "~"
+ioc = "~"
+iso_name = "Northern Mariana Islands"
+numeric = 580
+official = "Commonwealth of the Northern Mariana Islands"
+short = "Northern Mariana Islands"
+emoji = "🇲🇵"
+shortcode = ":flag-mp:"
+
+[RS]
+alpha2 = "RS"
+alpha3 = "SRB"
+fifa = "SRB"
+ioc = "SRB"
+iso_name = "Serbia"
+numeric = 688
+official = "Republic of Serbia"
+short = "Serbia"
+emoji = "🇷🇸"
+shortcode = ":flag-rs:"
+
+[FO]
+aliases = ["Faroes", "Faeroes"]
+alpha2 = "FO"
+alpha3 = "FRO"
+fifa = "FRO"
+ioc = "FRO"
+iso_name = "Faroe Islands"
+numeric = 234
+official = "Faroe Islands"
+short = "Faroe Islands"
+emoji = "🇫🇴"
+shortcode = ":flag-fo:"
+
+[KN]
+aliases = ["Federation of Saint Christopher and Nevi"]
+alpha2 = "KN"
+alpha3 = "KNA"
+fifa = "SKN"
+ioc = "SKN"
+iso_name = "Saint Kitts And Nevis"
+numeric = 659
+official = "Federation of Saint Kitts and Nevis"
+short = "Saint Kitts And Nevis"
+emoji = "🇰🇳"
+shortcode = ":flag-kn:"
+
+[JP]
+alpha2 = "JP"
+alpha3 = "JPN"
+fifa = "JPN"
+ioc = "JPN"
+iso_name = "Japan"
+numeric = 392
+official = "Japan"
+short = "Japan"
+emoji = "🇯🇵"
+shortcode = ":flag-jp:"
+
+[CK]
+alpha2 = "CK"
+alpha3 = "COK"
+fifa = "COK"
+ioc = "COK"
+iso_name = "Cook Islands"
+numeric = 184
+official = "Cook Islands"
+short = "Cook Islands"
+emoji = "🇨🇰"
+shortcode = ":flag-ck:"
+
+[PS]
+aliases = ["Palestinian Territories", "Palestinian Territory"]
+alpha2 = "PS"
+alpha3 = "PSE"
+fifa = "PLE"
+ioc = "PLE"
+iso_name = "Palestinian Territory, Occupied"
+numeric = 275
+official = "State of Palestine"
+short = "Palestine"
+emoji = "🇵🇸"
+shortcode = ":flag-ps:"
+
+[VG]
+aliases = ["BVI"]
+alpha2 = "VG"
+alpha3 = "VGB"
+fifa = "VGB"
+ioc = "IVB"
+iso_name = "Virgin Islands, British"
+numeric = 92
+official = "Virgin Islands"
+short = "British Virgin Islands"
+emoji = "🇻🇬"
+shortcode = ":flag-vg:"
+
+[FM]
+aliases = ["Micronesia"]
+alpha2 = "FM"
+alpha3 = "FSM"
+fifa = "FSM"
+ioc = "FSM"
+iso_name = "Micronesia, Federated States Of"
+numeric = 583
+official = "Federated States of Micronesia"
+short = "Micronesia, Federated States Of"
+emoji = "🇫🇲"
+shortcode = ":flag-fm:"
+
+[AE]
+aliases = ["Emirates", "UAE"]
+alpha2 = "AE"
+alpha3 = "ARE"
+fifa = "UAE"
+ioc = "UAE"
+iso_name = "United Arab Emirates"
+numeric = 784
+official = "United Arab Emirates"
+short = "United Arab Emirates"
+emoji = "🇦🇪"
+shortcode = ":flag-ae:"
+
+[ST]
+aliases = ["Democratic Republic of Sao Tome and Principe", "São Tomé and Príncipe", "Sao Tomé and Príncipe", "Sao Tome and Príncipe", "São Tomé and Principe", "São Tome and Principe", "São Tome and Príncipe"]
+alpha2 = "ST"
+alpha3 = "STP"
+fifa = "STP"
+ioc = "STP"
+iso_name = "Sao Tome and Principe"
+numeric = 678
+official = "Democratic Republic of São Tomé and Príncipe"
+short = "Sao Tome and Principe"
+emoji = "🇸🇹"
+shortcode = ":flag-st:"
+
+[LU]
+alpha2 = "LU"
+alpha3 = "LUX"
+fifa = "LUX"
+ioc = "LUX"
+iso_name = "Luxembourg"
+numeric = 442
+official = "Grand Duchy of Luxembourg"
+short = "Luxembourg"
+emoji = "🇱🇺"
+shortcode = ":flag-lu:"
+
+[NE]
+alpha2 = "NE"
+alpha3 = "NER"
+fifa = "NIG"
+ioc = "NIG"
+iso_name = "Niger"
+numeric = 562
+official = "Republic of Niger"
+short = "Niger"
+emoji = "🇳🇪"
+shortcode = ":flag-ne:"
+
+[LI]
+alpha2 = "LI"
+alpha3 = "LIE"
+fifa = "LIE"
+ioc = "LIE"
+iso_name = "Liechtenstein"
+numeric = 438
+official = "Principality of Liechtenstein"
+short = "Liechtenstein"
+emoji = "🇱🇮"
+shortcode = ":flag-li:"
+
+[ZM]
+alpha2 = "ZM"
+alpha3 = "ZMB"
+fifa = "ZAM"
+ioc = "ZAM"
+iso_name = "Zambia"
+numeric = 894
+official = "Republic of Zambia"
+short = "Zambia"
+emoji = "🇿🇲"
+shortcode = ":flag-zm:"
+
+[MM]
+aliases = ["Burma"]
+alpha2 = "MM"
+alpha3 = "MMR"
+fifa = "MYA"
+ioc = "MYA"
+iso_name = "Myanmar"
+numeric = 104
+official = "Republic of the Union of Myanmar"
+short = "Myanmar"
+emoji = "🇲🇲"
+shortcode = ":flag-mm:"
+
+[TT]
+alpha2 = "TT"
+alpha3 = "TTO"
+fifa = "TRI"
+ioc = "TRI"
+iso_name = "Trinidad and Tobago"
+numeric = 780
+official = "Republic of Trinidad and Tobago"
+short = "Trinidad and Tobago"
+emoji = "🇹🇹"
+shortcode = ":flag-tt:"
+
+[BE]
+alpha2 = "BE"
+alpha3 = "BEL"
+fifa = "BEL"
+ioc = "BEL"
+iso_name = "Belgium"
+numeric = 56
+official = "Kingdom of Belgium"
+short = "Belgium"
+emoji = "🇧🇪"
+shortcode = ":flag-be:"
+
+[SD]
+aliases = ["The Sudan", "The Sudan, Republic of", "Republic of Sudan", "Sudan, Republic of", "Sudan, Republic of the"]
+alpha2 = "SD"
+alpha3 = "SDN"
+fifa = "SDN"
+ioc = "SUD"
+iso_name = "Sudan"
+numeric = 729
+official = "Republic of the Sudan"
+short = "Sudan"
+emoji = "🇸🇩"
+shortcode = ":flag-sd:"
+
+[AD]
+aliases = ["Principality of the Valleys of Andorra"]
+alpha2 = "AD"
+alpha3 = "AND"
+fifa = "AND"
+ioc = "AND"
+iso_name = "Andorra"
+numeric = 20
+official = "Principality of Andorra"
+short = "Andorra"
+emoji = "🇦🇩"
+shortcode = ":flag-ad:"
+
+[ZA]
+alpha2 = "ZA"
+alpha3 = "ZAF"
+fifa = "RSA"
+ioc = "RSA"
+iso_name = "South Africa"
+numeric = 710
+official = "Republic of South Africa"
+short = "South Africa"
+emoji = "🇿🇦"
+shortcode = ":flag-za:"
+
+[DM]
+alpha2 = "DM"
+alpha3 = "DMA"
+fifa = "DMA"
+ioc = "DMA"
+iso_name = "Dominica"
+numeric = 212
+official = "Commonwealth of Dominica"
+short = "Dominica"
+emoji = "🇩🇲"
+shortcode = ":flag-dm:"
+
+[BQ]
+alpha2 = "BQ"
+alpha3 = "BES"
+fifa = "BES"
+ioc = "~"
+iso_name = "Bonaire"
+numeric = 535
+official = "Bonaire, Sint Eustatius and Saba"
+short = "Bonaire"
+emoji = "🇧🇶"
+shortcode = ":flag-bq:"
+
+[NL]
+aliases = ["Holland"]
+alpha2 = "NL"
+alpha3 = "NLD"
+fifa = "NED"
+ioc = "NED"
+iso_name = "Netherlands"
+numeric = 528
+official = "Netherlands"
+short = "Netherlands"
+emoji = "🇳🇱"
+shortcode = ":flag-nl:"
+
+[SS]
+aliases = ["South Sudan, Republic of", "S. Sudan", "Republic of S. Sudan", "S. Sudan, Republic of"]
+alpha2 = "SS"
+alpha3 = "SSD"
+fifa = "~"
+ioc = "~"
+iso_name = "South Sudan"
+numeric = 728
+official = "Republic of South Sudan"
+short = "South Sudan"
+emoji = "🇸🇸"
+shortcode = ":flag-ss:"
+
+[CZ]
+alpha2 = "CZ"
+alpha3 = "CZE"
+fifa = "CZE"
+ioc = "CZE"
+iso_name = "Czech Republic"
+numeric = 203
+official = "Czech Republic"
+short = "Czechia"
+emoji = "🇨🇿"
+shortcode = ":flag-cz:"
+
+[TN]
+alpha2 = "TN"
+alpha3 = "TUN"
+fifa = "TUN"
+ioc = "TUN"
+iso_name = "Tunisia"
+numeric = 788
+official = "Republic of Tunisia"
+short = "Tunisia"
+emoji = "🇹🇳"
+shortcode = ":flag-tn:"
+
+[PK]
+alpha2 = "PK"
+alpha3 = "PAK"
+fifa = "PAK"
+ioc = "PAK"
+iso_name = "Pakistan"
+numeric = 586
+official = "Islamic Republic of Pakistan"
+short = "Pakistan"
+emoji = "🇵🇰"
+shortcode = ":flag-pk:"
+
+[EH]
+alpha2 = "EH"
+alpha3 = "ESH"
+fifa = "~"
+ioc = "~"
+iso_name = "Western Sahara"
+numeric = 732
+official = "Western Sahara"
+short = "Western Sahara"
+emoji = "🇪🇭"
+shortcode = ":flag-eh:"
+
+[QA]
+alpha2 = "QA"
+alpha3 = "QAT"
+fifa = "QAT"
+ioc = "QAT"
+iso_name = "Qatar"
+numeric = 634
+official = "State of Qatar"
+short = "Qatar"
+emoji = "🇶🇦"
+shortcode = ":flag-qa:"
+
+[GG]
+alpha2 = "GG"
+alpha3 = "GGY"
+fifa = "~"
+ioc = "~"
+iso_name = "Guernsey"
+numeric = 831
+official = "Bailiwick of Guernsey"
+short = "Guernsey"
+emoji = "🇬🇬"
+shortcode = ":flag-gg:"
+
+[SZ]
+aliases = ["Ngwane", "Swatini", "Swaziland", "Kingdom of Swaziland"]
+alpha2 = "SZ"
+alpha3 = "SWZ"
+fifa = "SWZ"
+ioc = "SWZ"
+iso_name = "Swaziland"
+numeric = 748
+official = "Kingdom of Eswatini"
+short = "Eswatini"
+emoji = "🇸🇿"
+shortcode = ":flag-sz:"
+
+[GW]
+aliases = ["Guinea Bissau", "Republic of Guinea Bissau"]
+alpha2 = "GW"
+alpha3 = "GNB"
+fifa = "GNB"
+ioc = "GBS"
+iso_name = "Guinea-Bissau"
+numeric = 624
+official = "Republic of Guinea-Bissau"
+short = "Guinea-Bissau"
+emoji = "🇬🇼"
+shortcode = ":flag-gw:"
+
+[DZ]
+alpha2 = "DZ"
+alpha3 = "DZA"
+fifa = "ALG"
+ioc = "ALG"
+iso_name = "Algeria"
+numeric = 12
+official = "People's Democratic Republic of Algeria"
+short = "Algeria"
+emoji = "🇩🇿"
+shortcode = ":flag-dz:"
+
+[SO]
+alpha2 = "SO"
+alpha3 = "SOM"
+fifa = "SOM"
+ioc = "SOM"
+iso_name = "Somalia"
+numeric = 706
+official = "Federal Republic of Somalia"
+short = "Somalia"
+emoji = "🇸🇴"
+shortcode = ":flag-so:"
+
+[TM]
+alpha2 = "TM"
+alpha3 = "TKM"
+fifa = "TKM"
+ioc = "TKM"
+iso_name = "Turkmenistan"
+numeric = 795
+official = "Turkmenistan"
+short = "Turkmenistan"
+emoji = "🇹🇲"
+shortcode = ":flag-tm:"
+
+[AU]
+alpha2 = "AU"
+alpha3 = "AUS"
+fifa = "AUS"
+ioc = "AUS"
+iso_name = "Australia"
+numeric = 36
+official = "Commonwealth of Australia"
+short = "Australia"
+emoji = "🇦🇺"
+shortcode = ":flag-au:"
+
+[GE]
+alpha2 = "GE"
+alpha3 = "GEO"
+fifa = "GEO"
+ioc = "GEO"
+iso_name = "Georgia"
+numeric = 268
+official = "Georgia"
+short = "Georgia"
+emoji = "🇬🇪"
+shortcode = ":flag-ge:"
+
+[ER]
+alpha2 = "ER"
+alpha3 = "ERI"
+fifa = "ERI"
+ioc = "ERI"
+iso_name = "Eritrea"
+numeric = 232
+official = "State of Eritrea"
+short = "Eritrea"
+emoji = "🇪🇷"
+shortcode = ":flag-er:"
+
+[NZ]
+alpha2 = "NZ"
+alpha3 = "NZL"
+fifa = "NZL"
+ioc = "NZL"
+iso_name = "New Zealand"
+numeric = 554
+official = "New Zealand"
+short = "New Zealand"
+emoji = "🇳🇿"
+shortcode = ":flag-nz:"
+
+[SN]
+alpha2 = "SN"
+alpha3 = "SEN"
+fifa = "SEN"
+ioc = "SEN"
+iso_name = "Senegal"
+numeric = 686
+official = "Republic of Senegal"
+short = "Senegal"
+emoji = "🇸🇳"
+shortcode = ":flag-sn:"
+
+[MA]
+alpha2 = "MA"
+alpha3 = "MAR"
+fifa = "MAR"
+ioc = "MAR"
+iso_name = "Morocco"
+numeric = 504
+official = "Kingdom of Morocco"
+short = "Morocco"
+emoji = "🇲🇦"
+shortcode = ":flag-ma:"
+
+[HU]
+alpha2 = "HU"
+alpha3 = "HUN"
+fifa = "HUN"
+ioc = "HUN"
+iso_name = "Hungary"
+numeric = 348
+official = "Hungary"
+short = "Hungary"
+emoji = "🇭🇺"
+shortcode = ":flag-hu:"
+
+[KM]
+alpha2 = "KM"
+alpha3 = "COM"
+fifa = "COM"
+ioc = "COM"
+iso_name = "Comoros"
+numeric = 174
+official = "Union of the Comoros"
+short = "Comoros"
+emoji = "🇰🇲"
+shortcode = ":flag-km:"
+
+[KZ]
+alpha2 = "KZ"
+alpha3 = "KAZ"
+fifa = "KAZ"
+ioc = "KAZ"
+iso_name = "Kazakhstan"
+numeric = 398
+official = "Republic of Kazakhstan"
+short = "Kazakhstan"
+emoji = "🇰🇿"
+shortcode = ":flag-kz:"
+
+[GP]
+alpha2 = "GP"
+alpha3 = "GLP"
+fifa = "~"
+ioc = "~"
+iso_name = "Guadeloupe"
+numeric = 312
+official = "Guadeloupe"
+short = "Guadeloupe"
+emoji = "🇬🇵"
+shortcode = ":flag-gp:"
+
+[LB]
+alpha2 = "LB"
+alpha3 = "LBN"
+fifa = "LIB"
+ioc = "LIB"
+iso_name = "Lebanon"
+numeric = 422
+official = "Lebanese Republic"
+short = "Lebanon"
+emoji = "🇱🇧"
+shortcode = ":flag-lb:"
+
+[CY]
+alpha2 = "CY"
+alpha3 = "CYP"
+fifa = "CYP"
+ioc = "CYP"
+iso_name = "Cyprus"
+numeric = 196
+official = "Republic of Cyprus"
+short = "Cyprus"
+emoji = "🇨🇾"
+shortcode = ":flag-cy:"
+
+[LV]
+alpha2 = "LV"
+alpha3 = "LVA"
+fifa = "LVA"
+ioc = "LAT"
+iso_name = "Latvia"
+numeric = 428
+official = "Republic of Latvia"
+short = "Latvia"
+emoji = "🇱🇻"
+shortcode = ":flag-lv:"
+
+[MD]
+aliases = ["Moldova, Republic of"]
+alpha2 = "MD"
+alpha3 = "MDA"
+fifa = "MDA"
+ioc = "MDA"
+iso_name = "Moldova, Republic of"
+numeric = 498
+official = "Republic of Moldova"
+short = "Moldova"
+emoji = "🇲🇩"
+shortcode = ":flag-md:"
+
+[SE]
+alpha2 = "SE"
+alpha3 = "SWE"
+fifa = "SWE"
+ioc = "SWE"
+iso_name = "Sweden"
+numeric = 752
+official = "Kingdom of Sweden"
+short = "Sweden"
+emoji = "🇸🇪"
+shortcode = ":flag-se:"
+
+[CO]
+alpha2 = "CO"
+alpha3 = "COL"
+fifa = "COL"
+ioc = "COL"
+iso_name = "Colombia"
+numeric = 170
+official = "Republic of Colombia"
+short = "Colombia"
+emoji = "🇨🇴"
+shortcode = ":flag-co:"
+
+[JO]
+aliases = ["Kingdom of Jordan"]
+alpha2 = "JO"
+alpha3 = "JOR"
+fifa = "JOR"
+ioc = "JOR"
+iso_name = "Jordan"
+numeric = 400
+official = "Hashemite Kingdom of Jordan"
+short = "Jordan"
+emoji = "🇯🇴"
+shortcode = ":flag-jo:"
+
+[US]
+aliases = ["America", "U.S.", "U.S.A."]
+alpha2 = "US"
+alpha3 = "USA"
+fifa = "USA"
+ioc = "USA"
+iso_name = "United States"
+numeric = 840
+official = "United States of America"
+short = "United States"
+emoji = "🇺🇸"
+shortcode = ":flag-us:"
+
+[IO]
+aliases = ["BIOT", "Chagos Islands"]
+alpha2 = "IO"
+alpha3 = "IOT"
+fifa = "~"
+ioc = "~"
+iso_name = "British Indian Ocean Territory"
+numeric = 86
+official = "British Indian Ocean Territory"
+short = "British Indian Ocean Territory"
+emoji = "🇮🇴"
+shortcode = ":flag-io:"
+
+[NA]
+alpha2 = "NA"
+alpha3 = "NAM"
+fifa = "NAM"
+ioc = "NAM"
+iso_name = "Namibia"
+numeric = 516
+official = "Namibia"
+short = "Namibia"
+emoji = "🇳🇦"
+shortcode = ":flag-na:"
+
+[NI]
+alpha2 = "NI"
+alpha3 = "NIC"
+fifa = "NCA"
+ioc = "NCA"
+iso_name = "Nicaragua"
+numeric = 558
+official = "Republic of Nicaragua"
+short = "Nicaragua"
+emoji = "🇳🇮"
+shortcode = ":flag-ni:"
+
+[CH]
+alpha2 = "CH"
+alpha3 = "CHE"
+fifa = "SUI"
+ioc = "SUI"
+iso_name = "Switzerland"
+numeric = 756
+official = "Swiss Confederation"
+short = "Switzerland"
+emoji = "🇨🇭"
+shortcode = ":flag-ch:"
+
+[TZ]
+alpha2 = "TZ"
+alpha3 = "TZA"
+fifa = "TAN"
+ioc = "TAN"
+iso_name = "Tanzania, United Republic of"
+numeric = 834
+official = "United Republic of Tanzania"
+short = "Tanzania"
+emoji = "🇹🇿"
+shortcode = ":flag-tz:"
+
+[PY]
+alpha2 = "PY"
+alpha3 = "PRY"
+fifa = "PAR"
+ioc = "PAR"
+iso_name = "Paraguay"
+numeric = 600
+official = "Republic of Paraguay"
+short = "Paraguay"
+emoji = "🇵🇾"
+shortcode = ":flag-py:"
+
+[KY]
+aliases = ["Caymans"]
+alpha2 = "KY"
+alpha3 = "CYM"
+fifa = "CAY"
+ioc = "CAY"
+iso_name = "Cayman Islands"
+numeric = 136
+official = "Cayman Islands"
+short = "Cayman Islands"
+emoji = "🇰🇾"
+shortcode = ":flag-ky:"
+
+[CA]
+alpha2 = "CA"
+alpha3 = "CAN"
+fifa = "CAN"
+ioc = "CAN"
+iso_name = "Canada"
+numeric = 124
+official = "Canada"
+short = "Canada"
+emoji = "🇨🇦"
+shortcode = ":flag-ca:"
+
+[ET]
+alpha2 = "ET"
+alpha3 = "ETH"
+fifa = "ETH"
+ioc = "ETH"
+iso_name = "Ethiopia"
+numeric = 231
+official = "Federal Democratic Republic of Ethiopia"
+short = "Ethiopia"
+emoji = "🇪🇹"
+shortcode = ":flag-et:"
+
+[MY]
+alpha2 = "MY"
+alpha3 = "MYS"
+fifa = "MAS"
+ioc = "MAS"
+iso_name = "Malaysia"
+numeric = 458
+official = "Malaysia"
+short = "Malaysia"
+emoji = "🇲🇾"
+shortcode = ":flag-my:"
+
+[PE]
+alpha2 = "PE"
+alpha3 = "PER"
+fifa = "PER"
+ioc = "PER"
+iso_name = "Peru"
+numeric = 604
+official = "Republic of Peru"
+short = "Peru"
+emoji = "🇵🇪"
+shortcode = ":flag-pe:"
+
+[FJ]
+alpha2 = "FJ"
+alpha3 = "FJI"
+fifa = "FIJ"
+ioc = "FIJ"
+iso_name = "Fiji"
+numeric = 242
+official = "Republic of Fiji"
+short = "Fiji"
+emoji = "🇫🇯"
+shortcode = ":flag-fj:"
+
+[PL]
+alpha2 = "PL"
+alpha3 = "POL"
+fifa = "POL"
+ioc = "POL"
+iso_name = "Poland"
+numeric = 616
+official = "Republic of Poland"
+short = "Poland"
+emoji = "🇵🇱"
+shortcode = ":flag-pl:"
+
+[NR]
+alpha2 = "NR"
+alpha3 = "NRU"
+fifa = "NRU"
+ioc = "NRU"
+iso_name = "Nauru"
+numeric = 520
+official = "Republic of Nauru"
+short = "Nauru"
+emoji = "🇳🇷"
+shortcode = ":flag-nr:"
+
+[SM]
+aliases = ["Most Serene Republic of San Marino"]
+alpha2 = "SM"
+alpha3 = "SMR"
+fifa = "SMR"
+ioc = "SMR"
+iso_name = "San Marino"
+numeric = 674
+official = "Republic of San Marino"
+short = "San Marino"
+emoji = "🇸🇲"
+shortcode = ":flag-sm:"
+
+[TF]
+aliases = ["French Southern and Antarctic Lands"]
+alpha2 = "TF"
+alpha3 = "ATF"
+fifa = "~"
+ioc = "~"
+iso_name = "French Southern Territories"
+numeric = 260
+official = "Territory of the French Southern and Antarctic Land"
+short = "French Southern Territories"
+emoji = "🇹🇫"
+shortcode = ":flag-tf:"
+
+[BI]
+alpha2 = "BI"
+alpha3 = "BDI"
+fifa = "BDI"
+ioc = "BDI"
+iso_name = "Burundi"
+numeric = 108
+official = "Republic of Burundi"
+short = "Burundi"
+emoji = "🇧🇮"
+shortcode = ":flag-bi:"
+
+[KP]
+aliases = ["DPRK", "N Korea", "N. Korea", "Korea, North"]
+alpha2 = "KP"
+alpha3 = "PRK"
+fifa = "PRK"
+ioc = "PRK"
+iso_name = "Korea, Democratic People's Republic Of"
+numeric = 408
+official = "Democratic People's Republic of Korea"
+short = "North Korea"
+emoji = "🇰🇵"
+shortcode = ":flag-kp:"
+
+[MU]
+alpha2 = "MU"
+alpha3 = "MUS"
+fifa = "MRI"
+ioc = "MRI"
+iso_name = "Mauritius"
+numeric = 480
+official = "Republic of Mauritius"
+short = "Mauritius"
+emoji = "🇲🇺"
+shortcode = ":flag-mu:"
+
+[LR]
+alpha2 = "LR"
+alpha3 = "LBR"
+fifa = "LBR"
+ioc = "LBR"
+iso_name = "Liberia"
+numeric = 430
+official = "Republic of Liberia"
+short = "Liberia"
+emoji = "🇱🇷"
+shortcode = ":flag-lr:"
+
+[AQ]
+alpha2 = "AQ"
+alpha3 = "ATA"
+fifa = "~"
+ioc = "~"
+iso_name = "Antarctica"
+numeric = 10
+official = "Antarctica"
+short = "Antarctica"
+emoji = "🇦🇶"
+shortcode = ":flag-aq:"
+
+[TH]
+alpha2 = "TH"
+alpha3 = "THA"
+fifa = "THA"
+ioc = "THA"
+iso_name = "Thailand"
+numeric = 764
+official = "Kingdom of Thailand"
+short = "Thailand"
+emoji = "🇹🇭"
+shortcode = ":flag-th:"
+
+[GM]
+alpha2 = "GM"
+alpha3 = "GMB"
+fifa = "GAM"
+ioc = "GAM"
+iso_name = "Gambia"
+numeric = 270
+official = "Republic of the Gambia"
+short = "Gambia"
+emoji = "🇬🇲"
+shortcode = ":flag-gm:"
+
+[MQ]
+alpha2 = "MQ"
+alpha3 = "MTQ"
+fifa = "~"
+ioc = "~"
+iso_name = "Martinique"
+numeric = 474
+official = "Martinique"
+short = "Martinique"
+emoji = "🇲🇶"
+shortcode = ":flag-mq:"
+
+[TL]
+alpha2 = "TL"
+alpha3 = "TLS"
+fifa = "TLS"
+ioc = "TLS"
+iso_name = "Timor-Leste"
+numeric = 626
+official = "Democratic Republic of Timor-Leste"
+short = "East Timor"
+emoji = "🇹🇱"
+shortcode = ":flag-tl:"
+
+[KW]
+alpha2 = "KW"
+alpha3 = "KWT"
+fifa = "KUW"
+ioc = "KUW"
+iso_name = "Kuwait"
+numeric = 414
+official = "State of Kuwait"
+short = "Kuwait"
+emoji = "🇰🇼"
+shortcode = ":flag-kw:"
+
+[CC]
+aliases = ["Cocos Islands", "Keeling Islands"]
+alpha2 = "CC"
+alpha3 = "CCK"
+fifa = "~"
+ioc = "~"
+iso_name = "Cocos (Keeling) Islands"
+numeric = 166
+official = "Territory of the Cocos (Keeling) Islands"
+short = "Cocos (Keeling) Islands"
+emoji = "🇨🇨"
+shortcode = ":flag-cc:"
+
+[MF]
+aliases = ["St. Martin", "Saint-Martin"]
+alpha2 = "MF"
+alpha3 = "MAF"
+fifa = "~"
+ioc = "~"
+iso_name = "Saint Martin (French part)"
+numeric = 663
+official = "Collectivity of Saint Martin"
+short = "Saint Martin"
+emoji = "🇲🇫"
+shortcode = ":flag-mf:"
+
+[PN]
+aliases = ["Pitcairn Islands"]
+alpha2 = "PN"
+alpha3 = "PCN"
+fifa = "~"
+ioc = "~"
+iso_name = "Pitcairn"
+numeric = 612
+official = "Pitcairn, Henderson, Ducie and Oeno Islands"
+short = "Pitcairn"
+emoji = "🇵🇳"
+shortcode = ":flag-pn:"
+
+[UZ]
+alpha2 = "UZ"
+alpha3 = "UZB"
+fifa = "UZB"
+ioc = "UZB"
+iso_name = "Uzbekistan"
+numeric = 860
+official = "Republic of Uzbekistan"
+short = "Uzbekistan"
+emoji = "🇺🇿"
+shortcode = ":flag-uz:"
+
+[CW]
+aliases = ["Curacao"]
+alpha2 = "CW"
+alpha3 = "CUW"
+fifa = "CUW"
+ioc = "~"
+iso_name = "Curaçao"
+numeric = 531
+official = "Curaçao"
+short = "~"
+emoji = "🇨🇼"
+shortcode = ":flag-cw:"
+
+[BW]
+alpha2 = "BW"
+alpha3 = "BWA"
+fifa = "BOT"
+ioc = "BOT"
+iso_name = "Botswana"
+numeric = 72
+official = "Republic of Botswana"
+short = "Botswana"
+emoji = "🇧🇼"
+shortcode = ":flag-bw:"
+
+[BL]
+aliases = ["Saint Barts", "St. Barts", "St. Barths", "Saint Barthelemy", "Saint Barthélemy", "St. Barthélemy"]
+alpha2 = "BL"
+alpha3 = "BLM"
+fifa = "~"
+ioc = "~"
+iso_name = "Saint Barthélemy"
+numeric = 652
+official = "Territorial Collectivity of Saint Barthélemy"
+short = "Saint Barths"
+emoji = "🇧🇱"
+shortcode = ":flag-bl:"
+
+[ZW]
+alpha2 = "ZW"
+alpha3 = "ZWE"
+fifa = "ZIM"
+ioc = "ZIM"
+iso_name = "Zimbabwe"
+numeric = 716
+official = "Republic of Zimbabwe"
+short = "Zimbabwe"
+emoji = "🇿🇼"
+shortcode = ":flag-zw:"
+
+[HN]
+alpha2 = "HN"
+alpha3 = "HND"
+fifa = "HON"
+ioc = "HON"
+iso_name = "Honduras"
+numeric = 340
+official = "Republic of Honduras"
+short = "Honduras"
+emoji = "🇭🇳"
+shortcode = ":flag-hn:"
+
+[BF]
+alpha2 = "BF"
+alpha3 = "BFA"
+fifa = "BFA"
+ioc = "BUR"
+iso_name = "Burkina Faso"
+numeric = 854
+official = "Burkina Faso"
+short = "Burkina"
+emoji = "🇧🇫"
+shortcode = ":flag-bf:"
+
+[DK]
+alpha2 = "DK"
+alpha3 = "DNK"
+fifa = "DEN"
+ioc = "DEN"
+iso_name = "Denmark"
+numeric = 208
+official = "Kingdom of Denmark"
+short = "Denmark"
+emoji = "🇩🇰"
+shortcode = ":flag-dk:"
+
+[IL]
+alpha2 = "IL"
+alpha3 = "ISR"
+fifa = "ISR"
+ioc = "ISR"
+iso_name = "Israel"
+numeric = 376
+official = "State of Israel"
+short = "Israel"
+emoji = "🇮🇱"
+shortcode = ":flag-il:"
+
+[RO]
+alpha2 = "RO"
+alpha3 = "ROU"
+fifa = "ROU"
+ioc = "ROU"
+iso_name = "Romania"
+numeric = 642
+official = "Romania"
+short = "Romania"
+emoji = "🇷🇴"
+shortcode = ":flag-ro:"
+
+[HT]
+alpha2 = "HT"
+alpha3 = "HTI"
+fifa = "HAI"
+ioc = "HAI"
+iso_name = "Haiti"
+numeric = 332
+official = "Republic of Haiti"
+short = "Haiti"
+emoji = "🇭🇹"
+shortcode = ":flag-ht:"
+
+[TJ]
+alpha2 = "TJ"
+alpha3 = "TJK"
+fifa = "TJK"
+ioc = "TJK"
+iso_name = "Tajikistan"
+numeric = 762
+official = "Republic of Tajikistan"
+short = "Tajikistan"
+emoji = "🇹🇯"
+shortcode = ":flag-tj:"
+
+[NC]
+alpha2 = "NC"
+alpha3 = "NCL"
+fifa = "~"
+ioc = "~"
+iso_name = "New Caledonia"
+numeric = 540
+official = "New Caledonia"
+short = "New Caledonia"
+emoji = "🇳🇨"
+shortcode = ":flag-nc:"
+
+[LA]
+aliases = ["Laos"]
+alpha2 = "LA"
+alpha3 = "LAO"
+fifa = "LAO"
+ioc = "LAO"
+iso_name = "Lao People's Democratic Republic"
+numeric = 418
+official = "Lao People's Democratic Republic"
+short = "Lao People's Democratic Republic"
+emoji = "🇱🇦"
+shortcode = ":flag-la:"
+
+[AM]
+alpha2 = "AM"
+alpha3 = "ARM"
+fifa = "ARM"
+ioc = "ARM"
+iso_name = "Armenia"
+numeric = 51
+official = "Republic of Armenia"
+short = "Armenia"
+emoji = "🇦🇲"
+shortcode = ":flag-am:"
+
+[UA]
+aliases = ["The Ukraine"]
+alpha2 = "UA"
+alpha3 = "UKR"
+fifa = "UKR"
+ioc = "UKR"
+iso_name = "Ukraine"
+numeric = 804
+official = "Ukraine"
+short = "Ukraine"
+emoji = "🇺🇦"
+shortcode = ":flag-ua:"
+
+[GI]
+alpha2 = "GI"
+alpha3 = "GIB"
+fifa = "~"
+ioc = "~"
+iso_name = "Gibraltar"
+numeric = 292
+official = "Gibraltar"
+short = "Gibraltar"
+emoji = "🇬🇮"
+shortcode = ":flag-gi:"
+
+[TW]
+aliases = ["ROC"]
+alpha2 = "TW"
+alpha3 = "TWN"
+fifa = "TPE"
+ioc = "TPE"
+iso_name = "Taiwan, Republic Of China"
+numeric = 158
+official = "Republic of China"
+short = "Taiwan"
+emoji = "🇹🇼"
+shortcode = ":flag-tw:"
+
+[WS]
+alpha2 = "WS"
+alpha3 = "WSM"
+fifa = "SAM"
+ioc = "SAM"
+iso_name = "Samoa"
+numeric = 882
+official = "Independent State of Samoa"
+short = "Samoa"
+emoji = "🇼🇸"
+shortcode = ":flag-ws:"
+
+[YT]
+alpha2 = "YT"
+alpha3 = "MYT"
+fifa = "~"
+ioc = "~"
+iso_name = "Mayotte"
+numeric = 175
+official = "Department of Mayotte"
+short = "Mayotte"
+emoji = "🇾🇹"
+shortcode = ":flag-yt:"
+
+[LY]
+alpha2 = "LY"
+alpha3 = "LBY"
+fifa = "LBY"
+ioc = "LBA"
+iso_name = "Libya"
+numeric = 434
+official = "State of Libya"
+short = "Libya"
+emoji = "🇱🇾"
+shortcode = ":flag-ly:"
+
+[FI]
+alpha2 = "FI"
+alpha3 = "FIN"
+fifa = "FIN"
+ioc = "FIN"
+iso_name = "Finland"
+numeric = 246
+official = "Republic of Finland"
+short = "Finland"
+emoji = "🇫🇮"
+shortcode = ":flag-fi:"
+
+[PM]
+alpha2 = "PM"
+alpha3 = "SPM"
+fifa = "~"
+ioc = "~"
+iso_name = "Saint Pierre And Miquelon"
+numeric = 666
+official = "Saint Pierre And Miquelon"
+short = "Saint Pierre And Miquelon"
+emoji = "🇵🇲"
+shortcode = ":flag-pm:"
+
+[BM]
+aliases = ["Bermudas", "Somers Isles", "The Bermudas", "The Somers Isles"]
+alpha2 = "BM"
+alpha3 = "BMU"
+fifa = "BER"
+ioc = "BER"
+iso_name = "Bermuda"
+numeric = 60
+official = "Bermuda"
+short = "Bermuda"
+emoji = "🇧🇲"
+shortcode = ":flag-bm:"
+
+[GF]
+alpha2 = "GF"
+alpha3 = "GUF"
+fifa = "~"
+ioc = "~"
+iso_name = "French Guiana"
+numeric = 254
+official = "French Guiana"
+short = "French Guiana"
+emoji = "🇬🇫"
+shortcode = ":flag-gf:"
+
+[BJ]
+alpha2 = "BJ"
+alpha3 = "BEN"
+fifa = "BEN"
+ioc = "BEN"
+iso_name = "Benin"
+numeric = 204
+official = "Republic of Benin"
+short = "Benin"
+emoji = "🇧🇯"
+shortcode = ":flag-bj:"
+
+[BB]
+alpha2 = "BB"
+alpha3 = "BRB"
+fifa = "BRB"
+ioc = "BAR"
+iso_name = "Barbados"
+numeric = 52
+official = "Barbados"
+short = "Barbados"
+emoji = "🇧🇧"
+shortcode = ":flag-bb:"
+
+[MC]
+alpha2 = "MC"
+alpha3 = "MCO"
+fifa = "MON"
+ioc = "MON"
+iso_name = "Monaco"
+numeric = 492
+official = "Principality of Monaco"
+short = "Monaco"
+emoji = "🇲🇨"
+shortcode = ":flag-mc:"
+
+[EC]
+alpha2 = "EC"
+alpha3 = "ECU"
+fifa = "ECU"
+ioc = "ECU"
+iso_name = "Ecuador"
+numeric = 218
+official = "Republic of Ecuador"
+short = "Ecuador"
+emoji = "🇪🇨"
+shortcode = ":flag-ec:"
+
+[SC]
+alpha2 = "SC"
+alpha3 = "SYC"
+fifa = "SEY"
+ioc = "SEY"
+iso_name = "Seychelles"
+numeric = 690
+official = "Republic of Seychelles"
+short = "Seychelles"
+emoji = "🇸🇨"
+shortcode = ":flag-sc:"
+
+[CM]
+aliases = ["Cameroun", "Cameroon, Republic of"]
+alpha2 = "CM"
+alpha3 = "CMR"
+fifa = "CMR"
+ioc = "CMR"
+iso_name = "Cameroon"
+numeric = 120
+official = "Republic of Cameroon"
+short = "Cameroon"
+emoji = "🇨🇲"
+shortcode = ":flag-cm:"
+
+[SK]
+alpha2 = "SK"
+alpha3 = "SVK"
+fifa = "SVK"
+ioc = "SVK"
+iso_name = "Slovakia"
+numeric = 703
+official = "Slovak Republic"
+short = "Slovakia"
+emoji = "🇸🇰"
+shortcode = ":flag-sk:"
+
+[MZ]
+alpha2 = "MZ"
+alpha3 = "MOZ"
+fifa = "MOZ"
+ioc = "MOZ"
+iso_name = "Mozambique"
+numeric = 508
+official = "Mozambique"
+short = "Mozambique"
+emoji = "🇲🇿"
+shortcode = ":flag-mz:"
+
+[GY]
+alpha2 = "GY"
+alpha3 = "GUY"
+fifa = "GUY"
+ioc = "GUY"
+iso_name = "Guyana"
+numeric = 328
+official = "Co-operative Republic of Guyana"
+short = "Guyana"
+emoji = "🇬🇾"
+shortcode = ":flag-gy:"
+
+[PW]
+aliases = ["Belau", "Pelew"]
+alpha2 = "PW"
+alpha3 = "PLW"
+fifa = "PLW"
+ioc = "PLW"
+iso_name = "Palau"
+numeric = 585
+official = "Republic of Palau"
+short = "Palau"
+emoji = "🇵🇼"
+shortcode = ":flag-pw:"
+
+[MR]
+alpha2 = "MR"
+alpha3 = "MRT"
+fifa = "MTN"
+ioc = "MTN"
+iso_name = "Mauritania"
+numeric = 478
+official = "Islamic Republic of Mauritania"
+short = "Mauritania"
+emoji = "🇲🇷"
+shortcode = ":flag-mr:"
+
+[AI]
+alpha2 = "AI"
+alpha3 = "AIA"
+fifa = "~"
+ioc = "~"
+iso_name = "Anguilla"
+numeric = 660
+official = "Anguilla"
+short = "Anguilla"
+emoji = "🇦🇮"
+shortcode = ":flag-ai:"
+
+[ID]
+alpha2 = "ID"
+alpha3 = "IDN"
+fifa = "IDN"
+ioc = "INA"
+iso_name = "Indonesia"
+numeric = 360
+official = "Republic of Indonesia"
+short = "Indonesia"
+emoji = "🇮🇩"
+shortcode = ":flag-id:"
+
+[HR]
+alpha2 = "HR"
+alpha3 = "HRV"
+fifa = "CRO"
+ioc = "CRO"
+iso_name = "Croatia"
+numeric = 191
+official = "Republic of Croatia"
+short = "Croatia"
+emoji = "🇭🇷"
+shortcode = ":flag-hr:"
+
+[BT]
+alpha2 = "BT"
+alpha3 = "BTN"
+fifa = "BHU"
+ioc = "BHU"
+iso_name = "Bhutan"
+numeric = 64
+official = "Kingdom of Bhutan"
+short = "Bhutan"
+emoji = "🇧🇹"
+shortcode = ":flag-bt:"
+
+[CR]
+alpha2 = "CR"
+alpha3 = "CRI"
+fifa = "CRC"
+ioc = "CRC"
+iso_name = "Costa Rica"
+numeric = 188
+official = "Republic of Costa Rica"
+short = "Costa Rica"
+emoji = "🇨🇷"
+shortcode = ":flag-cr:"
+
+[VE]
+alpha2 = "VE"
+alpha3 = "VEN"
+fifa = "VEN"
+ioc = "VEN"
+iso_name = "Venezuela, Bolivarian Republic of"
+numeric = 862
+official = "Bolivarian Republic of Venezuela"
+short = "Venezuela"
+emoji = "🇻🇪"
+shortcode = ":flag-ve:"
+
+[SV]
+alpha2 = "SV"
+alpha3 = "SLV"
+fifa = "SLV"
+ioc = "ESA"
+iso_name = "El Salvador"
+numeric = 222
+official = "Republic of El Salvador"
+short = "El Salvador"
+emoji = "🇸🇻"
+shortcode = ":flag-sv:"
+
+[MX]
+alpha2 = "MX"
+alpha3 = "MEX"
+fifa = "MEX"
+ioc = "MEX"
+iso_name = "Mexico"
+numeric = 484
+official = "United Mexican States"
+short = "Mexico"
+emoji = "🇲🇽"
+shortcode = ":flag-mx:"
+
+[GN]
+alpha2 = "GN"
+alpha3 = "GIN"
+fifa = "GUI"
+ioc = "GUI"
+iso_name = "Guinea"
+numeric = 324
+official = "Republic of Guinea"
+short = "Guinea"
+emoji = "🇬🇳"
+shortcode = ":flag-gn:"
+
+[GU]
+alpha2 = "GU"
+alpha3 = "GUM"
+fifa = "GUM"
+ioc = "GUM"
+iso_name = "Guam"
+numeric = 316
+official = "Guam"
+short = "Guam"
+emoji = "🇬🇺"
+shortcode = ":flag-gu:"
+
+[LS]
+alpha2 = "LS"
+alpha3 = "LSO"
+fifa = "LES"
+ioc = "LES"
+iso_name = "Lesotho"
+numeric = 426
+official = "Kingdom of Lesoth"
+short = "Lesotho"
+emoji = "🇱🇸"
+shortcode = ":flag-ls:"
+
+[CL]
+alpha2 = "CL"
+alpha3 = "CHL"
+fifa = "CHI"
+ioc = "CHI"
+iso_name = "Chile"
+numeric = 152
+official = "Republic of Chile"
+short = "Chile"
+emoji = "🇨🇱"
+shortcode = ":flag-cl:"
+
+[VA]
+alpha2 = "VA"
+alpha3 = "VAT"
+fifa = "~"
+ioc = "~"
+iso_name = "Holy See (Vatican City State)"
+numeric = 336
+official = "Vatican City State"
+short = "Vatican City"
+emoji = "🇻🇦"
+shortcode = ":flag-va:"
+
+[MH]
+alpha2 = "MH"
+alpha3 = "MHL"
+fifa = "MHL"
+ioc = "MHL"
+iso_name = "Marshall Islands"
+numeric = 584
+official = "Republic of the Marshall Islands"
+short = "Marshall Islands"
+emoji = "🇲🇭"
+shortcode = ":flag-mh:"
+
+[AR]
+alpha2 = "AR"
+alpha3 = "ARG"
+fifa = "ARG"
+ioc = "ARG"
+iso_name = "Argentina"
+numeric = 32
+official = "Argentine Republic"
+short = "Argentina"
+emoji = "🇦🇷"
+shortcode = ":flag-ar:"
+
+[BO]
+alpha2 = "BO"
+alpha3 = "BOL"
+fifa = "BOL"
+ioc = "BOL"
+iso_name = "Bolivia, Plurinational State of"
+numeric = 68
+official = "Plurinational State of Bolivia"
+short = "Bolivia"
+emoji = "🇧🇴"
+shortcode = ":flag-bo:"
+
+[DE]
+alpha2 = "DE"
+alpha3 = "DEU"
+fifa = "GER"
+ioc = "GER"
+iso_name = "Germany"
+numeric = 276
+official = "Federal Republic of Germany"
+short = "Germany"
+emoji = "🇩🇪"
+shortcode = ":flag-de:"
+
+[CX]
+alpha2 = "CX"
+alpha3 = "CXR"
+fifa = "~"
+ioc = "~"
+iso_name = "Christmas Island"
+numeric = 162
+official = "Territory of Christmas Island"
+short = "Christmas Island"
+emoji = "🇨🇽"
+shortcode = ":flag-cx:"
+
+[PH]
+alpha2 = "PH"
+alpha3 = "PHL"
+fifa = "PHI"
+ioc = "PHI"
+iso_name = "Philippines"
+numeric = 608
+official = "Republic of the Philippines"
+short = "Philippines"
+emoji = "🇵🇭"
+shortcode = ":flag-ph:"
+
+[AF]
+alpha2 = "AF"
+alpha3 = "AFG"
+fifa = "AFG"
+ioc = "AFG"
+iso_name = "Afghanistan"
+numeric = 4
+official = "Islamic Republic of Afghanistan"
+short = "Afghanistan"
+emoji = "🇦🇫"
+shortcode = ":flag-af:"
+
+[GQ]
+alpha2 = "GQ"
+alpha3 = "GNQ"
+fifa = "EQG"
+ioc = "GEQ"
+iso_name = "Equatorial Guinea"
+numeric = 226
+official = "Republic of Equatorial Guinea"
+short = "Equatorial Guinea"
+emoji = "🇬🇶"
+shortcode = ":flag-gq:"
+
+[MK]
+aliases = ["Republic of Macedonia", "Macedonia, the Former Yugoslav Republic Of"]
+alpha2 = "MK"
+alpha3 = "MKD"
+fifa = "MKD"
+ioc = "MKD"
+iso_name = "North Macedonia"
+numeric = 807
+official = "Republic of North Macedonia"
+short = "Macedonia"
+emoji = "🇲🇰"
+shortcode = ":flag-mk:"
+
+[MW]
+alpha2 = "MW"
+alpha3 = "MWI"
+fifa = "MWI"
+ioc = "MAW"
+iso_name = "Malawi"
+numeric = 454
+official = "Republic of Malawi"
+short = "Malawi"
+emoji = "🇲🇼"
+shortcode = ":flag-mw:"
+
+[BG]
+alpha2 = "BG"
+alpha3 = "BGR"
+fifa = "BUL"
+ioc = "BUL"
+iso_name = "Bulgaria"
+numeric = 100
+official = "Republic of Bulgaria"
+short = "Bulgaria"
+emoji = "🇧🇬"
+shortcode = ":flag-bg:"
+
+[IR]
+alpha2 = "IR"
+alpha3 = "IRN"
+fifa = "IRN"
+ioc = "IRI"
+iso_name = "Iran, Islamic Republic Of"
+numeric = 364
+official = "Islamic Republic of Iran"
+short = "Iran"
+emoji = "🇮🇷"
+shortcode = ":flag-ir:"
+
+[AZ]
+alpha2 = "AZ"
+alpha3 = "AZE"
+fifa = "AZE"
+ioc = "AZE"
+iso_name = "Azerbaijan"
+numeric = 31
+official = "Republic of Azerbaijan"
+short = "Azerbaijan"
+emoji = "🇦🇿"
+shortcode = ":flag-az:"
+
+[DJ]
+alpha2 = "DJ"
+alpha3 = "DJI"
+fifa = "DJI"
+ioc = "DJI"
+iso_name = "Djibouti"
+numeric = 262
+official = "Republic of Djibouti"
+short = "Djibouti"
+emoji = "🇩🇯"
+shortcode = ":flag-dj:"
+
+[IM]
+aliases = ["Mann"]
+alpha2 = "IM"
+alpha3 = "IMN"
+fifa = "~"
+ioc = "~"
+iso_name = "Isle of Man"
+numeric = 833
+official = "Isle of Man"
+short = "Isle of Man"
+emoji = "🇮🇲"
+shortcode = ":flag-im:"
+
+[UM]
+alpha2 = "UM"
+alpha3 = "UMI"
+fifa = "~"
+ioc = "~"
+iso_name = "United States Minor Outlying Islands"
+numeric = 581
+official = "United States Minor Outlying Islands"
+short = "United States Minor Outlying Islands"
+emoji = "🇺🇲"
+shortcode = ":flag-um:"
+
+[SL]
+alpha2 = "SL"
+alpha3 = "SLE"
+fifa = "SLE"
+ioc = "SLE"
+iso_name = "Sierra Leone"
+numeric = 694
+official = "Republic of Sierra Leone"
+short = "Sierra Leone"
+emoji = "🇸🇱"
+shortcode = ":flag-sl:"
+
+[CG]
+aliases = ["Congo-Brazzaville", "Congo Brazzaville", "Congo Republic", "Congo, Republic of the"]
+alpha2 = "CG"
+alpha3 = "COG"
+fifa = "CGO"
+ioc = "CGO"
+iso_name = "Congo"
+numeric = 178
+official = "Republic of the Congo"
+short = "Congo"
+emoji = "🇨🇬"
+shortcode = ":flag-cg:"
+
+[SG]
+alpha2 = "SG"
+alpha3 = "SGP"
+fifa = "SIN"
+ioc = "SIN"
+iso_name = "Singapore"
+numeric = 702
+official = "Republic of Singapore"
+short = "Singapore"
+emoji = "🇸🇬"
+shortcode = ":flag-sg:"
+
+[PF]
+alpha2 = "PF"
+alpha3 = "PYF"
+fifa = "~"
+ioc = "~"
+iso_name = "French Polynesia"
+numeric = 258
+official = "French Polynesia"
+short = "French Polynesia"
+emoji = "🇵🇫"
+shortcode = ":flag-pf:"
+
+[BY]
+alpha2 = "BY"
+alpha3 = "BLR"
+fifa = "BLR"
+ioc = "BLR"
+iso_name = "Belarus"
+numeric = 112
+official = "Republic of Belarus"
+short = "Belarus"
+emoji = "🇧🇾"
+shortcode = ":flag-by:"
+
+[AL]
+alpha2 = "AL"
+alpha3 = "ALB"
+fifa = "ALB"
+ioc = "ALB"
+iso_name = "Albania"
+numeric = 8
+official = "Republic of Albania"
+short = "Albania"
+emoji = "🇦🇱"
+shortcode = ":flag-al:"
+
+[BZ]
+alpha2 = "BZ"
+alpha3 = "BLZ"
+fifa = "BLZ"
+ioc = "BIZ"
+iso_name = "Belize"
+numeric = 84
+official = "Belize"
+short = "Belize"
+emoji = "🇧🇿"
+shortcode = ":flag-bz:"
+
+[MS]
+alpha2 = "MS"
+alpha3 = "MSR"
+fifa = "~"
+ioc = "~"
+iso_name = "Montserrat"
+numeric = 500
+official = "Montserrat"
+short = "Montserrat"
+emoji = "🇲🇸"
+shortcode = ":flag-ms:"
+
+[IE]
+alpha2 = "IE"
+alpha3 = "IRL"
+fifa = "IRL"
+ioc = "IRL"
+iso_name = "Ireland"
+numeric = 372
+official = "Ireland"
+short = "Ireland"
+emoji = "🇮🇪"
+shortcode = ":flag-ie:"
+
+[RW]
+alpha2 = "RW"
+alpha3 = "RWA"
+fifa = "RWA"
+ioc = "RWA"
+iso_name = "Rwanda"
+numeric = 646
+official = "Republic of Rwanda"
+short = "Rwanda"
+emoji = "🇷🇼"
+shortcode = ":flag-rw:"
+
+[LC]
+aliases = ["St. Lucia"]
+alpha2 = "LC"
+alpha3 = "LCA"
+fifa = "LCA"
+ioc = "LCA"
+iso_name = "Saint Lucia"
+numeric = 662
+official = "Saint Lucia"
+short = "Saint Lucia"
+emoji = "🇱🇨"
+shortcode = ":flag-lc:"
+
+[GR]
+alpha2 = "GR"
+alpha3 = "GRC"
+fifa = "GRE"
+ioc = "GRE"
+iso_name = "Greece"
+numeric = 300
+official = "Hellenic Republic"
+short = "Greece"
+emoji = "🇬🇷"
+shortcode = ":flag-gr:"
+
+[CN]
+alpha2 = "CN"
+alpha3 = "CHN"
+fifa = "CHN"
+ioc = "CHN"
+iso_name = "China"
+numeric = 156
+official = "People's Republic of China"
+short = "China"
+emoji = "🇨🇳"
+shortcode = ":flag-cn:"
+
+[LT]
+alpha2 = "LT"
+alpha3 = "LTU"
+fifa = "LTU"
+ioc = "LTU"
+iso_name = "Lithuania"
+numeric = 440
+official = "Republic of Lithuania"
+short = "Lithuania"
+emoji = "🇱🇹"
+shortcode = ":flag-lt:"
+
+[RU]
+alpha2 = "RU"
+alpha3 = "RUS"
+fifa = "RUS"
+ioc = "RUS"
+iso_name = "Russian Federation"
+numeric = 643
+official = "Russian Federation"
+short = "Russia"
+emoji = "🇷🇺"
+shortcode = ":flag-ru:"
+
+[MV]
+aliases = ["Maldive Islands"]
+alpha2 = "MV"
+alpha3 = "MDV"
+fifa = "MDV"
+ioc = "MDV"
+iso_name = "Maldives"
+numeric = 462
+official = "Republic of the Maldives"
+short = "Maldives"
+emoji = "🇲🇻"
+shortcode = ":flag-mv:"
+
+[CU]
+alpha2 = "CU"
+alpha3 = "CUB"
+fifa = "CUB"
+ioc = "CUB"
+iso_name = "Cuba"
+numeric = 192
+official = "Republic of Cuba"
+short = "Cuba"
+emoji = "🇨🇺"
+shortcode = ":flag-cu:"
+
+[SI]
+alpha2 = "SI"
+alpha3 = "SVN"
+fifa = "SVN"
+ioc = "SLO"
+iso_name = "Slovenia"
+numeric = 705
+official = "Republic of Slovenia"
+short = "Slovenia"
+emoji = "🇸🇮"
+shortcode = ":flag-si:"
+
+[TK]
+alpha2 = "TK"
+alpha3 = "TKL"
+fifa = "~"
+ioc = "~"
+iso_name = "Tokelau"
+numeric = 772
+official = "Tokelau"
+short = "Tokelau"
+emoji = "🇹🇰"
+shortcode = ":flag-tk:"
+
+[RE]
+aliases = ["Reunion"]
+alpha2 = "RE"
+alpha3 = "REU"
+fifa = "~"
+ioc = "~"
+iso_name = "Réunion"
+numeric = 638
+official = "Réunion Island"
+short = "Réunion"
+emoji = "🇷🇪"
+shortcode = ":flag-re:"
+
+[AX]
+aliases = ["Aland Islands"]
+alpha2 = "AX"
+alpha3 = "ALA"
+fifa = "~"
+ioc = "~"
+iso_name = "Åland Islands"
+numeric = 248
+official = "Åland Islands"
+short = "Åland Islands"
+emoji = "🇦🇽"
+shortcode = ":flag-ax:"
+
+[BH]
+alpha2 = "BH"
+alpha3 = "BHR"
+fifa = "BHR"
+ioc = "BRN"
+iso_name = "Bahrain"
+numeric = 48
+official = "Kingdom of Bahrain"
+short = "Bahrain"
+emoji = "🇧🇭"
+shortcode = ":flag-bh:"
+
+[SR]
+aliases = ["Surinam"]
+alpha2 = "SR"
+alpha3 = "SUR"
+fifa = "SUR"
+ioc = "SUR"
+iso_name = "Suriname"
+numeric = 740
+official = "Republic of Suriname"
+short = "Suriname"
+emoji = "🇸🇷"
+shortcode = ":flag-sr:"
+
+[VI]
+aliases = ["USVI", "US Virgin Islands", "United States Virgin Islands"]
+alpha2 = "VI"
+alpha3 = "VIR"
+fifa = "VIR"
+ioc = "ISV"
+iso_name = "Virgin Islands, U.S."
+numeric = 850
+official = "Virgin Islands of the United States"
+short = "U.S. Virgin Islands"
+emoji = "🇻🇮"
+shortcode = ":flag-vi:"
+
+[SB]
+alpha2 = "SB"
+alpha3 = "SLB"
+fifa = "SOL"
+ioc = "SOL"
+iso_name = "Solomon Islands"
+numeric = 90
+official = "Solomon Islands"
+short = "Solomon Islands"
+emoji = "🇸🇧"
+shortcode = ":flag-sb:"
+
+[AN]
+aliases = ["Dutch Antilles"]
+alpha2 = "AN"
+alpha3 = "ANT"
+fifa = "ANT"
+ioc = "AHO"
+iso_name = "Netherlands Antilles"
+numeric = 530
+official = "Netherlands Antilles"
+short = "Netherlands Antilles"
+emoji = "🇦🇳"
+shortcode = "~"
+
+[MT]
+alpha2 = "MT"
+alpha3 = "MLT"
+fifa = "MLT"
+ioc = "MLT"
+iso_name = "Malta"
+numeric = 470
+official = "Republic of Malta"
+short = "Malta"
+emoji = "🇲🇹"
+shortcode = ":flag-mt:"
+
+[BN]
+alpha2 = "BN"
+alpha3 = "BRN"
+fifa = "BRU"
+ioc = "BRU"
+iso_name = "Brunei Darussalam"
+numeric = 96
+official = "Nation of Brunei, Abode of Peace"
+short = "Brunei"
+emoji = "🇧🇳"
+shortcode = ":flag-bn:"
+
+[VN]
+aliases = ["Viet Nam"]
+alpha2 = "VN"
+alpha3 = "VNM"
+fifa = "VIE"
+ioc = "VIE"
+iso_name = "Vietnam"
+numeric = 704
+official = "Socialist Republic of Vietnam"
+short = "Vietnam"
+emoji = "🇻🇳"
+shortcode = ":flag-vn:"
+
+[NF]
+alpha2 = "NF"
+alpha3 = "NFK"
+fifa = "~"
+ioc = "~"
+iso_name = "Norfolk Island"
+numeric = 574
+official = "Territory of Norfolk Island"
+short = "Norfolk Island"
+emoji = "🇳🇫"
+shortcode = ":flag-nf:"
+
+[ME]
+alpha2 = "ME"
+alpha3 = "MNE"
+fifa = "MNE"
+ioc = "MNE"
+iso_name = "Montenegro"
+numeric = 499
+official = "Montenegro"
+short = "Montenegro"
+emoji = "🇲🇪"
+shortcode = ":flag-me:"
+
+[AW]
+alpha2 = "AW"
+alpha3 = "ABW"
+fifa = "ARU"
+ioc = "ARU"
+iso_name = "Aruba"
+numeric = 533
+official = "Aruba"
+short = "Aruba"
+emoji = "🇦🇼"
+shortcode = ":flag-aw:"
+
+[YE]
+alpha2 = "YE"
+alpha3 = "YEM"
+fifa = "YEM"
+ioc = "YEM"
+iso_name = "Yemen"
+numeric = 887
+official = "Republic of Yemen"
+short = "Yemen"
+emoji = "🇾🇪"
+shortcode = ":flag-ye:"
+
+[AT]
+alpha2 = "AT"
+alpha3 = "AUT"
+fifa = "AUT"
+ioc = "AUT"
+iso_name = "Austria"
+numeric = 40
+official = "Republic of Austria"
+short = "Austria"
+emoji = "🇦🇹"
+shortcode = ":flag-at:"
+
+[TO]
+alpha2 = "TO"
+alpha3 = "TON"
+fifa = "TGA"
+ioc = "TGA"
+iso_name = "Tonga"
+numeric = 776
+official = "Kingdom of Tonga"
+short = "Tonga"
+emoji = "🇹🇴"
+shortcode = ":flag-to:"
+
+[GB]
+aliases = ["Britain", "U.K.", "UK"]
+alpha2 = "GB"
+alpha3 = "GBR"
+fifa = "GBR"
+ioc = "GBR"
+iso_name = "United Kingdom"
+numeric = 826
+official = "United Kingdom of Great Britain and Northern Ireland"
+short = "United Kingdom"
+emoji = "🇬🇧"
+shortcode = ":flag-gb:"
+
+[NG]
+alpha2 = "NG"
+alpha3 = "NGA"
+fifa = "NGA"
+ioc = "NGR"
+iso_name = "Nigeria"
+numeric = 566
+official = "Federal Republic of Nigeria"
+short = "Nigeria"
+emoji = "🇳🇬"
+shortcode = ":flag-ng:"
+
+[PA]
+alpha2 = "PA"
+alpha3 = "PAN"
+fifa = "PAN"
+ioc = "PAN"
+iso_name = "Panama"
+numeric = 591
+official = "Republic of Panama"
+short = "Panama"
+emoji = "🇵🇦"
+shortcode = ":flag-pa:"
+
+[SY]
+alpha2 = "SY"
+alpha3 = "SYR"
+fifa = "SYR"
+ioc = "SYR"
+iso_name = "Syrian Arab Republic"
+numeric = 760
+official = "Syrian Arab Republic"
+short = "Syria"
+emoji = "🇸🇾"
+shortcode = ":flag-sy:"
+
+[IN]
+alpha2 = "IN"
+alpha3 = "IND"
+fifa = "IND"
+ioc = "IND"
+iso_name = "India"
+numeric = 356
+official = "Republic of India"
+short = "India"
+emoji = "🇮🇳"
+shortcode = ":flag-in:"
+
+[GS]
+alpha2 = "GS"
+alpha3 = "SGS"
+fifa = "~"
+ioc = "~"
+iso_name = "South Georgia and the South Sandwich Islands"
+numeric = 239
+official = "South Georgia and the South Sandwich Islands"
+short = "South Georgia and the South Sandwich Islands"
+emoji = "🇬🇸"
+shortcode = ":flag-gs:"
+
+[HM]
+aliases = ["HIMI"]
+alpha2 = "HM"
+alpha3 = "HMD"
+fifa = "~"
+ioc = "~"
+iso_name = "Heard and McDonald Islands"
+numeric = 334
+official = "Heard and McDonald Islands"
+short = "Heard and McDonald Islands"
+emoji = "🇭🇲"
+shortcode = ":flag-hm:"
+
+[GT]
+alpha2 = "GT"
+alpha3 = "GTM"
+fifa = "GUA"
+ioc = "GUA"
+iso_name = "Guatemala"
+numeric = 320
+official = "Republic of Guatemala"
+short = "Guatemala"
+emoji = "🇬🇹"
+shortcode = ":flag-gt:"
+
+[PG]
+alpha2 = "PG"
+alpha3 = "PNG"
+fifa = "PNG"
+ioc = "PNG"
+iso_name = "Papua New Guinea"
+numeric = 598
+official = "Independent State of Papua New Guinea"
+short = "Papua New Guinea"
+emoji = "🇵🇬"
+shortcode = ":flag-pg:"
+
+[SA]
+alpha2 = "SA"
+alpha3 = "SAU"
+fifa = "KSA"
+ioc = "KSA"
+iso_name = "Saudi Arabia"
+numeric = 682
+official = "Kingdom of Saudi Arabia"
+short = "Saudi Arabia"
+emoji = "🇸🇦"
+shortcode = ":flag-sa:"
+
+[PR]
+alpha2 = "PR"
+alpha3 = "PRI"
+fifa = "PUR"
+ioc = "PUR"
+iso_name = "Puerto Rico"
+numeric = 630
+official = "Commonwealth of Puerto Rico"
+short = "Puerto Rico"
+emoji = "🇵🇷"
+shortcode = ":flag-pr:"
+
+[SH]
+alpha2 = "SH"
+alpha3 = "SHN"
+fifa = "~"
+ioc = "~"
+iso_name = "Saint Helena"
+numeric = 654
+official = "Saint Helena"
+short = "Saint Helena"
+emoji = "🇸🇭"
+shortcode = ":flag-sh:"
+
+[KE]
+alpha2 = "KE"
+alpha3 = "KEN"
+fifa = "KEN"
+ioc = "KEN"
+iso_name = "Kenya"
+numeric = 404
+official = "Republic of Kenya"
+short = "Kenya"
+emoji = "🇰🇪"
+shortcode = ":flag-ke:"
+
+[BA]
+aliases = ["Bosnia-Herzegovina", "Bosnia Herzegovina"]
+alpha2 = "BA"
+alpha3 = "BIH"
+fifa = "BIH"
+ioc = "BIH"
+iso_name = "Bosnia and Herzegovina"
+numeric = 70
+official = "Bosnia and Herzegovina"
+short = "Bosnia"
+emoji = "🇧🇦"
+shortcode = ":flag-ba:"
+
+[GD]
+alpha2 = "GD"
+alpha3 = "GRD"
+fifa = "GRN"
+ioc = "GRN"
+iso_name = "Grenada"
+numeric = 308
+official = "Grenada"
+short = "Grenada"
+emoji = "🇬🇩"
+shortcode = ":flag-gd:"
+
+[KG]
+alpha2 = "KG"
+alpha3 = "KGZ"
+fifa = "KGZ"
+ioc = "KGZ"
+iso_name = "Kyrgyzstan"
+numeric = 417
+official = "Kyrgyz Republic"
+short = "Kyrgyzstan"
+emoji = "🇰🇬"
+shortcode = ":flag-kg:"
+
+[IS]
+alpha2 = "IS"
+alpha3 = "ISL"
+fifa = "ISL"
+ioc = "ISL"
+iso_name = "Iceland"
+numeric = 352
+official = "Iceland"
+short = "Iceland"
+emoji = "🇮🇸"
+shortcode = ":flag-is:"
+
+[SX]
+alpha2 = "SX"
+alpha3 = "SXM"
+fifa = "~"
+ioc = "~"
+iso_name = "Sint Maarten (Dutch part)"
+numeric = 534
+official = "Sint Maarten"
+short = "Sint Maarten"
+emoji = "🇸🇽"
+shortcode = ":flag-sx:"
+
+[ES]
+alpha2 = "ES"
+alpha3 = "ESP"
+fifa = "ESP"
+ioc = "ESP"
+iso_name = "Spain"
+numeric = 724
+official = "Kingdom of Spain"
+short = "Spain"
+emoji = "🇪🇸"
+shortcode = ":flag-es:"
+
+[AO]
+alpha2 = "AO"
+alpha3 = "AGO"
+fifa = "ANG"
+ioc = "ANG"
+iso_name = "Angola"
+numeric = 24
+official = "Republic of Angola"
+short = "Angola"
+emoji = "🇦🇴"
+shortcode = ":flag-ao:"
+
+[BD]
+alpha2 = "BD"
+alpha3 = "BGD"
+fifa = "BAN"
+ioc = "BAN"
+iso_name = "Bangladesh"
+numeric = 50
+official = "People's Republic of Bangladesh"
+short = "Bangladesh"
+emoji = "🇧🇩"
+shortcode = ":flag-bd:"
+
+[JE]
+alpha2 = "JE"
+alpha3 = "JEY"
+fifa = "~"
+ioc = "~"
+iso_name = "Jersey"
+numeric = 832
+official = "Bailiwick of Jersey"
+short = "Jersey"
+emoji = "🇯🇪"
+shortcode = ":flag-je:"
+
+[AS]
+alpha2 = "AS"
+alpha3 = "ASM"
+fifa = "ASA"
+ioc = "ASA"
+iso_name = "American Samoa"
+numeric = 16
+official = "American Samoa"
+short = "American Samoa"
+emoji = "🇦🇸"
+shortcode = ":flag-as:"
+
+[TC]
+aliases = ["TCI"]
+alpha2 = "TC"
+alpha3 = "TCA"
+fifa = "~"
+ioc = "~"
+iso_name = "Turks and Caicos Islands"
+numeric = 796
+official = "Turks and Caicos Islands"
+short = "Turks and Caicos"
+emoji = "🇹🇨"
+shortcode = ":flag-tc:"
+
+[FK]
+aliases = ["The Falklands"]
+alpha2 = "FK"
+alpha3 = "FLK"
+fifa = "~"
+ioc = "~"
+iso_name = "Falkland Islands (Malvinas)"
+numeric = 238
+official = "Falkland Islands"
+short = "Falkland Islands (Malvinas)"
+emoji = "🇫🇰"
+shortcode = ":flag-fk:"
+
+[JM]
+alpha2 = "JM"
+alpha3 = "JAM"
+fifa = "JAM"
+ioc = "JAM"
+iso_name = "Jamaica"
+numeric = 388
+official = "Jamaica"
+short = "Jamaica"
+emoji = "🇯🇲"
+shortcode = ":flag-jm:"
+
+[HK]
+aliases = ["Hong Kong Special Administrative Region"]
+alpha2 = "HK"
+alpha3 = "HKG"
+fifa = "HKG"
+ioc = "HKG"
+iso_name = "Hong Kong"
+numeric = 344
+official = "Hong Kong Special Administrative Region of the People's Republic of China"
+short = "Hong Kong"
+emoji = "🇭🇰"
+shortcode = ":flag-hk:"
+
+[NO]
+alpha2 = "NO"
+alpha3 = "NOR"
+fifa = "NOR"
+ioc = "NOR"
+iso_name = "Norway"
+numeric = 578
+official = "Kingdom of Norway"
+short = "Norway"
+emoji = "🇳🇴"
+shortcode = ":flag-no:"
+
+[GH]
+alpha2 = "GH"
+alpha3 = "GHA"
+fifa = "GHA"
+ioc = "GHA"
+iso_name = "Ghana"
+numeric = 288
+official = "Republic of Ghana"
+short = "Ghana"
+emoji = "🇬🇭"
+shortcode = ":flag-gh:"
+
+[TR]
+alpha2 = "TR"
+alpha3 = "TUR"
+fifa = "TUR"
+ioc = "TUR"
+iso_name = "Turkey"
+numeric = 792
+official = "Republic of Turkey"
+short = "Turkey"
+emoji = "🇹🇷"
+shortcode = ":flag-tr:"
+
+[MN]
+alpha2 = "MN"
+alpha3 = "MNG"
+fifa = "MGL"
+ioc = "MGL"
+iso_name = "Mongolia"
+numeric = 496
+official = "Mongolia"
+short = "Mongolia"
+emoji = "🇲🇳"
+shortcode = ":flag-mn:"
+
+[BR]
+alpha2 = "BR"
+alpha3 = "BRA"
+fifa = "BRA"
+ioc = "BRA"
+iso_name = "Brazil"
+numeric = 76
+official = "Federative Republic of Brazil"
+short = "Brazil"
+emoji = "🇧🇷"
+shortcode = ":flag-br:"
+
+[UY]
+aliases = ["Eastern Republic of Uruguay"]
+alpha2 = "UY"
+alpha3 = "URY"
+fifa = "URU"
+ioc = "URU"
+iso_name = "Uruguay"
+numeric = 858
+official = "Oriental Republic of Uruguay"
+short = "Uruguay"
+emoji = "🇺🇾"
+shortcode = ":flag-uy:"
+
+[BS]
+alpha2 = "BS"
+alpha3 = "BHS"
+fifa = "BAH"
+ioc = "BAH"
+iso_name = "Bahamas"
+numeric = 44
+official = "Commonwealth of the Bahamas"
+short = "Bahamas"
+emoji = "🇧🇸"
+shortcode = ":flag-bs:"
+
+[NU]
+alpha2 = "NU"
+alpha3 = "NIU"
+fifa = "~"
+ioc = "~"
+iso_name = "Niue"
+numeric = 570
+official = "Niue"
+short = "Niue"
+emoji = "🇳🇺"
+shortcode = ":flag-nu:"
+
+[LK]
+alpha2 = "LK"
+alpha3 = "LKA"
+fifa = "SRI"
+ioc = "SRI"
+iso_name = "Sri Lanka"
+numeric = 144
+official = "Democratic Socialist Republic of Sri Lanka"
+short = "Sri Lanka"
+emoji = "🇱🇰"
+shortcode = ":flag-lk:"
+
+[AG]
+alpha2 = "AG"
+alpha3 = "ATG"
+fifa = "ATG"
+ioc = "ANT"
+iso_name = "Antigua and Barbuda"
+numeric = 28
+official = "Antigua and Barbuda"
+short = "Antigua and Barbuda"
+emoji = "🇦🇬"
+shortcode = ":flag-ag:"
+
+[TD]
+alpha2 = "TD"
+alpha3 = "TCD"
+fifa = "CHA"
+ioc = "CHA"
+iso_name = "Chad"
+numeric = 148
+official = "Republic of Chad"
+short = "Chad"
+emoji = "🇹🇩"
+shortcode = ":flag-td:"
+
+[EG]
+alpha2 = "EG"
+alpha3 = "EGY"
+fifa = "EGY"
+ioc = "EGY"
+iso_name = "Egypt"
+numeric = 818
+official = "Arab Republic of Egypt"
+short = "Egypt"
+emoji = "🇪🇬"
+shortcode = ":flag-eg:"
+
+[VC]
+alpha2 = "VC"
+alpha3 = "VCT"
+fifa = "VIN"
+ioc = "VIN"
+iso_name = "Saint Vincent And The Grenadines"
+numeric = 670
+official = "Saint Vincent And The Grenadines"
+short = "Saint Vincent And The Grenadines"
+emoji = "🇻🇨"
+shortcode = ":flag-vc:"
+
+[GA]
+alpha2 = "GA"
+alpha3 = "GAB"
+fifa = "GAB"
+ioc = "GAB"
+iso_name = "Gabon"
+numeric = 266
+official = "Gabonese Republic"
+short = "Gabon"
+emoji = "🇬🇦"
+shortcode = ":flag-ga:"
+
+[GL]
+alpha2 = "GL"
+alpha3 = "GRL"
+fifa = "~"
+ioc = "~"
+iso_name = "Greenland"
+numeric = 304
+official = "Greenland"
+short = "Greenland"
+emoji = "🇬🇱"
+shortcode = ":flag-gl:"
+
+[NP]
+alpha2 = "NP"
+alpha3 = "NPL"
+fifa = "NEP"
+ioc = "NEP"
+iso_name = "Nepal"
+numeric = 524
+official = "Federal Democratic Republic of Nepal"
+short = "Nepal"
+emoji = "🇳🇵"
+shortcode = ":flag-np:"
+
+[CD]
+aliases = ["Congo Kinshasa", "Congo-Kinshasa", "Congo, The Democratic Republic Of The", "Congo, Democratic Republic of", "Democratic Republic of Congo", "DR Congo", "RD Congo", "DROC", "DRC"]
+alpha2 = "CD"
+alpha3 = "COD"
+fifa = "COD"
+ioc = "COD"
+iso_name = "Congo, Democratic Republic Of The"
+numeric = 180
+official = "Democratic Republic of the Congo"
+short = "Congo, The Democratic Republic Of The"
+emoji = "🇨🇩"
+shortcode = ":flag-cd:"
+
+[XK]
+alpha2 = "XK"
+alpha3 = "XKX"
+fifa = "~"
+ioc = "~"
+iso_name = "Kosovo"
+numeric = 250
+official = "Kosovo"
+short = "Kosovo"
+emoji = "🇽🇰"
+shortcode = ":flag-xk:"
+
