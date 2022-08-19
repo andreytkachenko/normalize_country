@@ -1,6 +1,6 @@
 [package]
 name = "normalize_country"
-version = "0.1.1"
+version = "0.1.2"
 edition = "2021"
 description = "Convert country names and codes to a standard"
 authors = ["Andrey Tkachenko<andrey@aidev.ru>"]

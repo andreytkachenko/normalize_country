@@ -30,9 +30,9 @@ pub struct CountryRef<'a> {
 impl<'a> CountryRef<'a> {
     pub fn to_owned(&self) -> Country {
         let mut alpha2 = self.alpha2.as_bytes().into_iter().copied();
-        let mut alpha3 = self.alpha2.as_bytes().into_iter().copied();
-        let mut fifa = self.alpha2.as_bytes().into_iter().copied();
-        let mut ioc = self.alpha2.as_bytes().into_iter().copied();
+        let mut alpha3 = self.alpha3.as_bytes().into_iter().copied();
+        let mut fifa = self.fifa.as_bytes().into_iter().copied();
+        let mut ioc = self.ioc.as_bytes().into_iter().copied();
 
         Country {
             aliases: self
