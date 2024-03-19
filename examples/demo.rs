@@ -6,7 +6,7 @@ use std::{
 use normalize_country::CountryNameNormalizer;
 
 fn main() {
-    let cn = CountryNameNormalizer::new("./countries/en.toml").unwrap();
+    let cn = CountryNameNormalizer::new();
     let file = std::fs::File::open("./examples/countries.csv").unwrap();
     let mut map = BTreeMap::new();
 
