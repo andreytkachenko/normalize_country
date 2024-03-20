@@ -1,6 +1,6 @@
 [package]
 name = "normalize_country"
-version = "0.1.2"
+version = "0.2.0"
 edition = "2021"
 description = "Convert country names and codes to a standard"
 authors = ["Andrey Tkachenko<andrey@aidev.ru>"]
@@ -8,12 +8,11 @@ license = "MIT"
 repository = "https://github.com/andreytkachenko/normalize_country"
 keywords = ["country", "name", "normalization"]
 
-# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
-
 [dependencies]
-lazy_static = "1.4.0"
-regex = "1.5.6"
-serde = { version = "1.0.137", features = ["derive"] }
-smallstr = { version = "0.3.0", features = ["serde"] }
-thiserror = "1.0.31"
-toml = "0.5.9"
+lazy-static-include = "3"
+lazy_static = "1"
+regex = "1"
+serde = { version = "1.0", features = ["derive"] }
+smallstr = { version = "0.3", features = ["serde"] }
+thiserror = "1.0"
+toml = "0.5"

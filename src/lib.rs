@@ -1,15 +1,19 @@
-mod error;
-
 pub use error::Error;
-
 use lazy_static::lazy_static;
+use lazy_static_include::lazy_static_include_bytes;
 use regex::Regex;
 use serde::{Deserialize, Serialize};
 use smallstr::SmallString;
-use std::{collections::HashMap, path::Path};
+use std::collections::HashMap;
+
+mod error;
 
 lazy_static! {
     static ref PARSER: Regex = Regex::new(r"\s*([^~!?,&(){}\[\]\s]+|[~!?,&(){}\[\]])").unwrap();
+}
+
+lazy_static_include_bytes! {
+    ENG_DATA => "countries/en.toml",
 }
 
 #[derive(Debug, Deserialize, Serialize, Hash)]
@@ -29,16 +33,16 @@ pub struct CountryRef<'a> {
 
 impl<'a> CountryRef<'a> {
     pub fn to_owned(&self) -> Country {
-        let mut alpha2 = self.alpha2.as_bytes().into_iter().copied();
-        let mut alpha3 = self.alpha3.as_bytes().into_iter().copied();
-        let mut fifa = self.fifa.as_bytes().into_iter().copied();
-        let mut ioc = self.ioc.as_bytes().into_iter().copied();
+        let mut alpha2 = self.alpha2.as_bytes().iter().copied();
+        let mut alpha3 = self.alpha3.as_bytes().iter().copied();
+        let mut fifa = self.fifa.as_bytes().iter().copied();
+        let mut ioc = self.ioc.as_bytes().iter().copied();
 
         Country {
             aliases: self
                 .aliases
                 .as_ref()
-                .map(|x| x.into_iter().map(|&x| x.into()).collect()),
+                .map(|x| x.iter().map(|&x| x.into()).collect()),
 
             alpha2: [alpha2.next().unwrap_or(b' '), alpha2.next().unwrap_or(b' ')],
             alpha3: [
@@ -66,7 +70,7 @@ impl<'a> CountryRef<'a> {
     }
 }
 
-#[derive(Debug, Deserialize, Serialize, Hash)]
+#[derive(Debug, Deserialize, Serialize)]
 pub struct Country {
     pub aliases: Option<Vec<SmallString<[u8; 23]>>>,
     pub alpha2: [u8; 2],
@@ -136,10 +140,15 @@ pub struct CountryNameNormalizer {
     keys: HashMap<String, usize>,
 }
 
+impl Default for CountryNameNormalizer {
+    fn default() -> Self {
+        Self::new()
+    }
+}
+
 impl CountryNameNormalizer {
-    pub fn new<P: AsRef<Path>>(data_path: P) -> Result<Self, Error> {
-        let cfg = std::fs::read(data_path)?;
-        let data: HashMap<&str, CountryRef> = toml::from_slice(&cfg)?;
+    pub fn new() -> Self {
+        let data: HashMap<&str, CountryRef> = toml::from_slice(&ENG_DATA).unwrap();
 
         let mut countries = Vec::with_capacity(data.len());
         let mut keys = HashMap::new();
@@ -164,7 +173,7 @@ impl CountryNameNormalizer {
             }
         }
 
-        Ok(Self { countries, keys })
+        Self { countries, keys }
     }
 
     pub fn normalize_country(&self, name: &str) -> Option<&Country> {
