@@ -16,8 +16,8 @@ println!("{:?}", st_kittis_nevis);
 
 Output:
 
-```toml
-Country {
+```rust
+struct Country {
   aliases: Some(["Federation of Saint Christopher and Nevi"]),
   alpha2: "KN",
   alpha3: "KNA",
